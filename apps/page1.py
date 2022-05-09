@@ -87,7 +87,7 @@ def app():
             tickmode='array', tickvals=xv, ticktext=tt,tickfont=dict(family='Rockwell', color='black', size=20)
         )
     )
-    fig.update_layout(width=500,height=400) #Must have to show all
+    fig.update_layout(width=1500,height=800) #Must have to show all
     
     # with st.container():
     #     st.plotly_chart(fig,use_container_width=True)
