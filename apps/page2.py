@@ -39,7 +39,7 @@ def app():
         
     #@st.cache
     def get_data():
-     Tb=pd.read_csv("table2.csv")
+     Tb=pd.read_csv("Table2.csv")
      return Tb 
     Tb = get_data()
     
