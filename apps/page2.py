@@ -75,7 +75,7 @@ def app():
     fig.update_yaxes(title='y', visible=False, showticklabels=False)
     fig.update_xaxes(title=' ', visible=True, showticklabels=True)
 
-    fig.update_layout(width=9000,height=800) #Must have to show all
+    fig.update_layout(width=1000,height=800) #Must have to show all
 
     
     st.plotly_chart(fig,use_container_width=True)
