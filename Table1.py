@@ -44,8 +44,8 @@ Tb = get_data()
 
 Tbg = Tb['Group'].unique().tolist()
 
-Group = st.sidebar.selectbox('Select group:', Tbg)
-#Group = st.sidebar.radio('Select group:',Tbg)
+#Group = st.sidebar.selectbox('Select group:', Tbg)
+Group = st.sidebar.radio('Select group:',Tbg)
 #Group = st.selectbox('Select group:',Tbg)
 
 
