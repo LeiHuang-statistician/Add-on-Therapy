@@ -35,7 +35,7 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 #@st.cache
 def get_data():
- Tb=pd.read_csv("test.csv")
+ Tb=pd.read_csv("Table1.csv")
  return Tb 
 Tb = get_data()
 
