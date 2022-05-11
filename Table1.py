@@ -23,9 +23,13 @@ st.markdown(
         margin-left: -400px;
     }
      
+    .appview-container .main .block-container{{
+    margin-top: {1}rem;    }}
+    </style>
     """,
     unsafe_allow_html=True,
 )
+
 hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
@@ -87,7 +91,8 @@ fig.update_layout(
         tickmode='array', tickvals=xv, ticktext=tt,tickfont=dict(family='Rockwell', color='black', size=20)
     )
 )
-fig.update_layout(width=9000,height=800) #Must have to show all
+fig.update_layout(width=1000,height=800) #Must have to show all
+fig.update_layout(margin=dict(l=0, r=0, t=0, b=260))
 
 with st.container():
       st.plotly_chart(fig,use_container_width=True)
