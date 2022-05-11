@@ -19,13 +19,16 @@ st.markdown(
     """
     <style>
     [data-testid="stSidebar"][aria-expanded="true"] > div:first-child{
-        width: 500px;
+        width: 250px;
     }
     [data-testid="stSidebar"][aria-expanded="false"] > div:first-child{
         width: 200px;
         margin-left: -400px;
     }
      
+    .appview-container .main .block-container{{
+    margin-top: {1}rem;    }}
+    </style>
     """,
     unsafe_allow_html=True,
 )
@@ -76,7 +79,9 @@ fig.update_layout(plot_bgcolor = "white")
 fig.update_yaxes(title='y', visible=False, showticklabels=False)
 fig.update_xaxes(title=' ', visible=True, showticklabels=True)
 
-fig.update_layout(width=9000,height=800) #Must have to show all
+
+fig.update_layout(width=1000,height=800) #Must have to show all
+fig.update_layout(margin=dict(l=0, r=0, t=0, b=260))
 
 
 with st.container():
