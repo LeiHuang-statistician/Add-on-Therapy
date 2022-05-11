@@ -74,6 +74,7 @@
     font-family:Consolas
   }
    .button2 a:hover {
-     background-color: #FFF8DC;
+     background-color: transparent;
      color:orange;
+     border:2px solid;
     }
