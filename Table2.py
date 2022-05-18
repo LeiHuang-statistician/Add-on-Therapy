@@ -57,16 +57,6 @@ def textposL(plist):
     return pdict
 
 
-#@st.cache
-def textcolorL(plist):
-    plist=plist.astype(float)    
-    cdict=[]
-    for v in plist:
-        if v <9:
-            cdict.append('black')
-        else:
-            cdict.append('white')
-    return cdict
 
 
 #@st.cache
@@ -117,10 +107,6 @@ plist2=textposL(y2['P'])
 plist3=textposL(y3['P'])
 
 
-colorL0=textcolorL(y0['P'])   
-colorL1=textcolorL(y1['P'])  
-colorL2=textcolorL(y2['P'])
-colorL3=textcolorL(y3['P'])
 
 
 
@@ -138,7 +124,7 @@ marker= dict (color =color[0] ),
 name = name[0],
 text=y0['P']+"%",
 insidetextanchor="middle",
-textfont_color=colorL0,
+textfont_color='white',
 legendgroup="group",
 legendgrouptitle_text="LDL-C, mg/dL",
 textposition=plist0,
@@ -155,7 +141,7 @@ marker= dict (color =color[1] ),
 name = name[1],
 text=y1['P']+"%",
 insidetextanchor="middle",
-textfont_color=colorL1,
+textfont_color='white',
 legendgroup="group",
 textposition=plist1,
 textfont_size=sizeL1
@@ -169,7 +155,7 @@ marker= dict (color =color[2] ),
 name = name[2],
 text=y2['P']+"%",
 insidetextanchor="middle",
-textfont_color=colorL2,
+textfont_color='white',
 legendgroup="group",
 textposition=plist2,
 textfont_size=sizeL2
@@ -183,7 +169,7 @@ marker= dict (color =color[3] ),
 name = name[3],
 text=y3['P']+"%",
 insidetextanchor="middle",
-textfont_color=colorL3,
+textfont_color='white',
 legendgroup="group",
 textposition=plist3,
 textfont_size=sizeL3
