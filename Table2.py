@@ -38,14 +38,14 @@ hide_streamlit_style = """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 
-@st.cache
+#@st.cache
 def get_data():
  Tb=pd.read_csv("Table2.csv",encoding="latin-1")
  return Tb 
 
 
 
-@st.cache
+#@st.cache
 def textposL(plist):
     plist=plist.astype(float)    
     pdict=[]
@@ -57,7 +57,7 @@ def textposL(plist):
     return pdict
 
 
-@st.cache
+#@st.cache
 def textcolorL(plist):
     plist=plist.astype(float)    
     cdict=[]
@@ -69,7 +69,7 @@ def textcolorL(plist):
     return cdict
 
 
-@st.cache
+#@st.cache
 def textsizeL(plist):
     plist=plist.astype(float)    
     sdict=[]
