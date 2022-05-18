@@ -110,7 +110,7 @@ fig.update_layout(margin=dict(l=0, r=0, t=0, b=500))
 
 new_title = '<p style="font-family:sans-serif; color:black; font-size: 25px;"><b>US adults with atherosclerotic cardiovascular disease</b></p>'
 #colT1,colT2 = st.columns([1,8])
-colT1,colT2, colT3 = st.columns([1,1.6,1])
+colT1,colT2, colT3 = st.columns([1,1.7,1])
 with colT2:
     st.markdown(new_title,unsafe_allow_html=True)
 with st.container():
