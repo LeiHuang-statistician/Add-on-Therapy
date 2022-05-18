@@ -1,0 +1,61 @@
+Group,Label,Title,xtitle,"LDL cholesterol, mg/dL",N,Percent,x,T,P1,P,S
+Overall population,Overall population with ASCVD,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",<70,4.701,4.701 (25.1%),1,18.7,25.10%,25.1,%
+Overall population,Overall population with ASCVD,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",70 - <100,6.471,6.471 (34.6%),1,18.7,34.60%,34.6,%
+Overall population,Overall population with ASCVD,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",100 - <130,4.297,4.297 (23.0%),1,18.7,23.00%,23,%
+Overall population,Overall population with ASCVD,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",<span>&#8805;</span>130,3.253,3.253 (17.4%),1,18.7,17.40%,17.4,%
+Overall population,Overall population with ASCVD<br> and very high risk,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",<70,4.018,4.018 (26.3%),2,15.3,26.30%,26.3,%
+Overall population,Overall population with ASCVD<br> and very high risk,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",70 - <100,5.421,5.421 (35.5%),2,15.3,35.50%,35.5,%
+Overall population,Overall population with ASCVD<br> and very high risk,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",100 - <130,3.463,3.463 (22.7%),2,15.3,22.70%,22.7,%
+Overall population,Overall population with ASCVD<br> and very high risk,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",<span>&#8805;</span>130,2.368,2.368 (15.5%),2,15.3,15.50%,15.5,%
+Overall population,Overall population with ASCVD <br> recommended add-on therapy,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",<70,0.239,0.239 (2.1%),3,11.5,2.10%,2.1,%
+Overall population,Overall population with ASCVD <br> recommended add-on therapy,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",70 - <100,5.421,5.421 (47.2%),3,11.5,47.20%,47.2,%
+Overall population,Overall population with ASCVD <br> recommended add-on therapy,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",100 - <130,3.463,3.463 (30.1%),3,11.5,30.10%,30.1,%
+Overall population,Overall population with ASCVD <br> recommended add-on therapy,LDL-cholesterol distribution--Overall population,"<span style=""color:white"">All</span>",<span>&#8805;</span>130,2.368,2.368 (20.6%),3,11.5,20.60%,20.6,%
+Age stratified--overall population,20-54,LDL-cholesterol distribution--Overall population,"Age group, years",<70,0.301,0.301 (10.3%),1,2.9,10.30%,10.3,%
+Age stratified--overall population,20-54,LDL-cholesterol distribution--Overall population,"Age group, years",70 - <100,0.757,0.757 (25.8%),1,2.9,25.80%,25.8,%
+Age stratified--overall population,20-54,LDL-cholesterol distribution--Overall population,"Age group, years",100 - <130,1.092,1.092 (37.1%),1,2.9,37.10%,37.1,%
+Age stratified--overall population,20-54,LDL-cholesterol distribution--Overall population,"Age group, years",<span>&#8805;</span>130,0.789,0.789 (26.8%),1,2.9,26.80%,26.8,%
+Age stratified--overall population,55-64,LDL-cholesterol distribution--Overall population,"Age group, years",<70,1.015,1.015 (20.7%),2,4.9,20.70%,20.7,%
+Age stratified--overall population,55-64,LDL-cholesterol distribution--Overall population,"Age group, years",70 - <100,1.499,1.499 (30.6%),2,4.9,30.60%,30.6,%
+Age stratified--overall population,55-64,LDL-cholesterol distribution--Overall population,"Age group, years",100 - <130,1.396,1.396 (28.5%),2,4.9,28.50%,28.5,%
+Age stratified--overall population,55-64,LDL-cholesterol distribution--Overall population,"Age group, years",<span>&#8805;</span>130,0.989,0.989 (20.2%),2,4.9,20.20%,20.2,%
+Age stratified--overall population,65-74,LDL-cholesterol distribution--Overall population,"Age group, years",<70,1.96,1.960 (31.3%),3,6.3,31.30%,31.3,%
+Age stratified--overall population,65-74,LDL-cholesterol distribution--Overall population,"Age group, years",70 - <100,2.441,2.441 (39.0%),3,6.3,39.00%,39,%
+Age stratified--overall population,65-74,LDL-cholesterol distribution--Overall population,"Age group, years",100 - <130,1.138,1.138 (18.2%),3,6.3,18.20%,18.2,%
+Age stratified--overall population,65-74,LDL-cholesterol distribution--Overall population,"Age group, years",<span>&#8805;</span>130,0.718,0.718 (11.5%),3,6.3,11.50%,11.5,%
+Age stratified--overall population,<span>&#8805;</span>75,LDL-cholesterol distribution--Overall population,"Age group, years",<70,1.424,1.424 (30.8%),4,4.6,30.80%,30.8,%
+Age stratified--overall population,<span>&#8805;</span>75,LDL-cholesterol distribution--Overall population,"Age group, years",70 - <100,1.773,1.773 (38.3%),4,4.6,38.30%,38.3,%
+Age stratified--overall population,<span>&#8805;</span>75,LDL-cholesterol distribution--Overall population,"Age group, years",100 - <130,0.671,0.671 (14.5%),4,4.6,14.50%,14.5,%
+Age stratified--overall population,<span>&#8805;</span>75,LDL-cholesterol distribution--Overall population,"Age group, years",<span>&#8805;</span>130,0.756,0.756 (16.3%),4,4.6,16.30%,16.3,%
+Age stratified--very-high risk population,20-54,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",<70,0.142,0.142 (8.1%),1,1.7,8.10%,8.1,%
+Age stratified--very-high risk population,20-54,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",70 - <100,0.383,0.383 (21.9%),1,1.7,21.90%,21.9,%
+Age stratified--very-high risk population,20-54,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",100 - <130,0.796,0.796 (45.4%),1,1.7,45.40%,45.4,%
+Age stratified--very-high risk population,20-54,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",<span>&#8805;</span>130,0.432,0.432 (24.6%),1,1.7,24.60%,24.6,%
+Age stratified--very-high risk population,55-64,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",<70,0.719,0.719 (20.0%),2,3.6,20.00%,20,%
+Age stratified--very-high risk population,55-64,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",70 - <100,1.346,1.346 (37.5%),2,3.6,37.50%,37.5,%
+Age stratified--very-high risk population,55-64,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",100 - <130,0.963,0.963 (26.8%),2,3.6,26.80%,26.8,%
+Age stratified--very-high risk population,55-64,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",<span>&#8805;</span>130,0.559,0.559 (15.6%),2,3.6,15.60%,15.6,%
+Age stratified--very-high risk population,65-74,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",<70,1.764,1.764 (32.0%),3,5.5,32.00%,32,%
+Age stratified--very-high risk population,65-74,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",70 - <100,2.032,2.032 (36.8%),3,5.5,36.80%,36.8,%
+Age stratified--very-high risk population,65-74,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",100 - <130,1.049,1.049 (19.0%),3,5.5,19.00%,19,%
+Age stratified--very-high risk population,65-74,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",<span>&#8805;</span>130,0.67,0.670 (12.1%),3,5.5,12.10%,12.1,%
+Age stratified--very-high risk population,<span>&#8805;</span>75,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",<70,1.393,1.393 (31.5%),4,4.4,31.50%,31.5,%
+Age stratified--very-high risk population,<span>&#8805;</span>75,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",70 - <100,1.66,1.660 (37.6%),4,4.4,37.60%,37.6,%
+Age stratified--very-high risk population,<span>&#8805;</span>75,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",100 - <130,0.656,0.656 (14.8%),4,4.4,14.80%,14.8,%
+Age stratified--very-high risk population,<span>&#8805;</span>75,LDL-cholesterol distribution-- Very-high risk population,"Age group, years",<span>&#8805;</span>130,0.708,0.708 (16.0%),4,4.4,16.00%,16,%
+Age stratified--recommended add-on therapy,20-54,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",<70,0,0 (0.0%),1,1.6,0.00%,0,%
+Age stratified--recommended add-on therapy,20-54,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",70 - <100,0.383,0.383 (23.8%),1,1.6,23.80%,23.8,%
+Age stratified--recommended add-on therapy,20-54,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",100 - <130,0.796,0.796 (49.4%),1,1.6,49.40%,49.4,%
+Age stratified--recommended add-on therapy,20-54,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",<span>&#8805;</span>130,0.432,0.432 (26.8%),1,1.6,26.80%,26.8,%
+Age stratified--recommended add-on therapy,55-64,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",<70,0.14,0.140 (4.6%),2,3,4.60%,4.6,%
+Age stratified--recommended add-on therapy,55-64,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",70 - <100,1.346,1.346 (44.8%),2,3,44.80%,44.8,%
+Age stratified--recommended add-on therapy,55-64,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",100 - <130,0.963,0.963 (32.0%),2,3,32.00%,32,%
+Age stratified--recommended add-on therapy,55-64,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",<span>&#8805;</span>130,0.559,0.559 (18.6%),2,3,18.60%,18.6,%
+Age stratified--recommended add-on therapy,65-74,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",<70,0.032,0.032 (0.8%),3,3.9,0.80%,0.8,%
+Age stratified--recommended add-on therapy,65-74,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",70 - <100,2.032,2.032 (53.7%),3,3.9,53.70%,53.7,%
+Age stratified--recommended add-on therapy,65-74,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",100 - <130,1.049,1.049 (27.7%),3,3.9,27.70%,27.7,%
+Age stratified--recommended add-on therapy,65-74,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",<span>&#8805;</span>130,0.67,0.670 (17.7%),3,3.9,17.70%,17.7,%
+Age stratified--recommended add-on therapy,<span>&#8805;</span>75,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",<70,0.066,0.066 (2.1%),4,3.1,2.10%,2.1,%
+Age stratified--recommended add-on therapy,<span>&#8805;</span>75,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",70 - <100,1.66,1.660 (53.7%),4,3.1,53.70%,53.7,%
+Age stratified--recommended add-on therapy,<span>&#8805;</span>75,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",100 - <130,0.656,0.656 (21.2%),4,3.1,21.20%,21.2,%
+Age stratified--recommended add-on therapy,<span>&#8805;</span>75,LDL-cholesterol distribution--recommended add-on therapy,"Age group, years",<span>&#8805;</span>130,0.708,0.708 (22.9%),4,3.1,22.90%,22.9,%
